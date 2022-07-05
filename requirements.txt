@@ -45,7 +45,7 @@ dm-tree==0.1.5
 azure-core==1.8.1
 slugify==0.0.1
 tables==3.6.1
-ujson==1.35
+ujson==5.4.0
 fuzzywuzzy==0.18.0
 django-crispy-forms==1.9.2
 jupyter-core==4.6.3
