@@ -29,7 +29,7 @@ conda-verify==3.4.2
 more-itertools==8.4.0
 readchar==2.0.1
 numpy==1.18.5
-certifi==2020.6.20
+certifi==2022.12.7
 SharePlum==0.5.1
 stevedore==3.2.2
 defusedxml==0.6.0
