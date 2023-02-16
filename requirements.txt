@@ -34,7 +34,7 @@ SharePlum==0.5.1
 stevedore==3.2.2
 defusedxml==0.6.0
 python-slugify==4.0.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 parsedatetime==2.6
 xmltodict==0.12.0
 backports.shutil-get-terminal-size==1.0.0
